@@ -32,8 +32,8 @@ This analysis aims to answer the following business questions:
 
 ## Tools Used
 
-- SQL – Data Cleaning and Analysis
-- Microsoft Excel – Data Preparation
+-Microsoft Excel – Data Cleaning and Analysis
+- Python – Data Preparation
 - Tableau – Dashboard Development
 
 ---
