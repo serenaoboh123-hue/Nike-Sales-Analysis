@@ -104,7 +104,7 @@ Nike-Sales-Analysis
 
 ## Dashboard Preview
 
-![nike-sales-dashboard](nike-sales-dashboard.twb)
+![nike-dashboard](Nike-Dashboard.png)
 
 ---
 
